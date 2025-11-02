@@ -1,2 +1,2 @@
 # Face-Detection
-A simple project on Car Price Prediction System is developed using Python and machine learning to estimate the resale value of used cars. The system takes input details such as car brand, model year, mileage driven, fuel type, and other specifications, and then predicts the expected resale price.
+A face detection project involves building a system to automatically locate human faces in images or video streams, typically by using computer vision techniques like machine learning algorithms trained on large datasets. These projects often use pre-trained classifiers, such as Haar Cascades or LBP Cascades, with a framework like Python and the OpenCV library to process video from a webcam in real-time
